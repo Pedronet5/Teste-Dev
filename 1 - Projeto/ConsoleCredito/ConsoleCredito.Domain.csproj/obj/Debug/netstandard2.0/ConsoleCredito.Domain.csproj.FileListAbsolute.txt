@@ -1,0 +1,18 @@
+C:\Users\Pedro\source\repos\ConsoleCredito\ConsoleCredito.Domain.csproj\bin\Debug\netstandard2.0\ConsoleCredito.Domain.deps.json
+C:\Users\Pedro\source\repos\ConsoleCredito\ConsoleCredito.Domain.csproj\bin\Debug\netstandard2.0\ConsoleCredito.Domain.dll
+C:\Users\Pedro\source\repos\ConsoleCredito\ConsoleCredito.Domain.csproj\bin\Debug\netstandard2.0\ConsoleCredito.Domain.pdb
+C:\Users\Pedro\source\repos\ConsoleCredito\ConsoleCredito.Domain.csproj\obj\Debug\netstandard2.0\ConsoleCredito.Domain.csprojAssemblyReference.cache
+C:\Users\Pedro\source\repos\ConsoleCredito\ConsoleCredito.Domain.csproj\obj\Debug\netstandard2.0\ConsoleCredito.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\ConsoleCredito\ConsoleCredito.Domain.csproj\obj\Debug\netstandard2.0\ConsoleCredito.Domain.AssemblyInfoInputs.cache
+C:\Users\Pedro\source\repos\ConsoleCredito\ConsoleCredito.Domain.csproj\obj\Debug\netstandard2.0\ConsoleCredito.Domain.AssemblyInfo.cs
+C:\Users\Pedro\source\repos\ConsoleCredito\ConsoleCredito.Domain.csproj\obj\Debug\netstandard2.0\ConsoleCredito.Domain.dll
+C:\Users\Pedro\source\repos\ConsoleCredito\ConsoleCredito.Domain.csproj\obj\Debug\netstandard2.0\ConsoleCredito.Domain.pdb
+C:\Users\Pedro\Desktop\Teste\1 - Projeto\ConsoleCredito\ConsoleCredito.Domain.csproj\bin\Debug\netstandard2.0\ConsoleCredito.Domain.deps.json
+C:\Users\Pedro\Desktop\Teste\1 - Projeto\ConsoleCredito\ConsoleCredito.Domain.csproj\bin\Debug\netstandard2.0\ConsoleCredito.Domain.dll
+C:\Users\Pedro\Desktop\Teste\1 - Projeto\ConsoleCredito\ConsoleCredito.Domain.csproj\bin\Debug\netstandard2.0\ConsoleCredito.Domain.pdb
+C:\Users\Pedro\Desktop\Teste\1 - Projeto\ConsoleCredito\ConsoleCredito.Domain.csproj\obj\Debug\netstandard2.0\ConsoleCredito.Domain.csprojAssemblyReference.cache
+C:\Users\Pedro\Desktop\Teste\1 - Projeto\ConsoleCredito\ConsoleCredito.Domain.csproj\obj\Debug\netstandard2.0\ConsoleCredito.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Teste\1 - Projeto\ConsoleCredito\ConsoleCredito.Domain.csproj\obj\Debug\netstandard2.0\ConsoleCredito.Domain.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\Teste\1 - Projeto\ConsoleCredito\ConsoleCredito.Domain.csproj\obj\Debug\netstandard2.0\ConsoleCredito.Domain.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\Teste\1 - Projeto\ConsoleCredito\ConsoleCredito.Domain.csproj\obj\Debug\netstandard2.0\ConsoleCredito.Domain.dll
+C:\Users\Pedro\Desktop\Teste\1 - Projeto\ConsoleCredito\ConsoleCredito.Domain.csproj\obj\Debug\netstandard2.0\ConsoleCredito.Domain.pdb

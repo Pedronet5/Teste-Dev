@@ -1,0 +1,28 @@
+C:\Users\Pedro\source\repos\ConsoleCredito\ConsoleCredito\bin\Debug\netcoreapp2.2\ConsoleCredito.Application.deps.json
+C:\Users\Pedro\source\repos\ConsoleCredito\ConsoleCredito\bin\Debug\netcoreapp2.2\ConsoleCredito.Application.runtimeconfig.json
+C:\Users\Pedro\source\repos\ConsoleCredito\ConsoleCredito\bin\Debug\netcoreapp2.2\ConsoleCredito.Application.runtimeconfig.dev.json
+C:\Users\Pedro\source\repos\ConsoleCredito\ConsoleCredito\bin\Debug\netcoreapp2.2\ConsoleCredito.Application.dll
+C:\Users\Pedro\source\repos\ConsoleCredito\ConsoleCredito\bin\Debug\netcoreapp2.2\ConsoleCredito.Application.pdb
+C:\Users\Pedro\source\repos\ConsoleCredito\ConsoleCredito\obj\Debug\netcoreapp2.2\ConsoleCredito.Application.csprojAssemblyReference.cache
+C:\Users\Pedro\source\repos\ConsoleCredito\ConsoleCredito\obj\Debug\netcoreapp2.2\ConsoleCredito.Application.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\ConsoleCredito\ConsoleCredito\obj\Debug\netcoreapp2.2\ConsoleCredito.Application.AssemblyInfoInputs.cache
+C:\Users\Pedro\source\repos\ConsoleCredito\ConsoleCredito\obj\Debug\netcoreapp2.2\ConsoleCredito.Application.AssemblyInfo.cs
+C:\Users\Pedro\source\repos\ConsoleCredito\ConsoleCredito\obj\Debug\netcoreapp2.2\ConsoleCredito.Application.dll
+C:\Users\Pedro\source\repos\ConsoleCredito\ConsoleCredito\obj\Debug\netcoreapp2.2\ConsoleCredito.Application.pdb
+C:\Users\Pedro\source\repos\ConsoleCredito\ConsoleCredito\bin\Debug\netcoreapp2.2\ConsoleCredito.Domain.dll
+C:\Users\Pedro\source\repos\ConsoleCredito\ConsoleCredito\bin\Debug\netcoreapp2.2\ConsoleCredito.Domain.pdb
+C:\Users\Pedro\source\repos\ConsoleCredito\ConsoleCredito\obj\Debug\netcoreapp2.2\ConsoleCredito.Application.csproj.CopyComplete
+C:\Users\Pedro\Desktop\Teste\1 - Projeto\ConsoleCredito\ConsoleCredito\bin\Debug\netcoreapp2.2\ConsoleCredito.Application.deps.json
+C:\Users\Pedro\Desktop\Teste\1 - Projeto\ConsoleCredito\ConsoleCredito\bin\Debug\netcoreapp2.2\ConsoleCredito.Application.runtimeconfig.json
+C:\Users\Pedro\Desktop\Teste\1 - Projeto\ConsoleCredito\ConsoleCredito\bin\Debug\netcoreapp2.2\ConsoleCredito.Application.runtimeconfig.dev.json
+C:\Users\Pedro\Desktop\Teste\1 - Projeto\ConsoleCredito\ConsoleCredito\bin\Debug\netcoreapp2.2\ConsoleCredito.Application.dll
+C:\Users\Pedro\Desktop\Teste\1 - Projeto\ConsoleCredito\ConsoleCredito\bin\Debug\netcoreapp2.2\ConsoleCredito.Application.pdb
+C:\Users\Pedro\Desktop\Teste\1 - Projeto\ConsoleCredito\ConsoleCredito\bin\Debug\netcoreapp2.2\ConsoleCredito.Domain.dll
+C:\Users\Pedro\Desktop\Teste\1 - Projeto\ConsoleCredito\ConsoleCredito\bin\Debug\netcoreapp2.2\ConsoleCredito.Domain.pdb
+C:\Users\Pedro\Desktop\Teste\1 - Projeto\ConsoleCredito\ConsoleCredito\obj\Debug\netcoreapp2.2\ConsoleCredito.Application.csprojAssemblyReference.cache
+C:\Users\Pedro\Desktop\Teste\1 - Projeto\ConsoleCredito\ConsoleCredito\obj\Debug\netcoreapp2.2\ConsoleCredito.Application.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Teste\1 - Projeto\ConsoleCredito\ConsoleCredito\obj\Debug\netcoreapp2.2\ConsoleCredito.Application.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\Teste\1 - Projeto\ConsoleCredito\ConsoleCredito\obj\Debug\netcoreapp2.2\ConsoleCredito.Application.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\Teste\1 - Projeto\ConsoleCredito\ConsoleCredito\obj\Debug\netcoreapp2.2\ConsoleCredito.Application.csproj.CopyComplete
+C:\Users\Pedro\Desktop\Teste\1 - Projeto\ConsoleCredito\ConsoleCredito\obj\Debug\netcoreapp2.2\ConsoleCredito.Application.dll
+C:\Users\Pedro\Desktop\Teste\1 - Projeto\ConsoleCredito\ConsoleCredito\obj\Debug\netcoreapp2.2\ConsoleCredito.Application.pdb

@@ -1,0 +1,1 @@
+Criaria as integrações com WebApi utilizando tabelas auxiliares para migrar os dados, desta forma os ambientes de sistemas legados ficariam intactos e a integração com os outros sistemas seria transparente, não necessitaria de mão de obra operacional, pois iria transportar as informações através das APIs.
